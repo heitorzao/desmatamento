@@ -1,5 +1,0 @@
-basedosdados
-pandas
-plotly
-flask
-dash
